@@ -1,6 +1,5 @@
-groomies = ["nick", "nathan", "ben"]
-
 def using_include(array, element)
+groomies = ["nick", "nathan", "ben"]
 groomies.include("nick")
 end
 

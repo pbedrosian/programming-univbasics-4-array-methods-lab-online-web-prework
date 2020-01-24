@@ -1,6 +1,6 @@
 def using_include(array, element)
 groomies = ["nick", "nathan", "ben"]
-groomies.include?("nick")
+groomies.include?("peter")
 end
 
 def using_sort(array)
@@ -9,7 +9,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-groomies = ["nick", "nathan", "ben"]
+groomies = ["nick", "nathan", "ben", "arrays!"]
 groomies.reverse
 end
 

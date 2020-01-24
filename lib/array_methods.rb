@@ -1,5 +1,7 @@
-def using_include(array, element)
+groomies = ["nick", "nathan", "ben"]
 
+def using_include(array, element)
+groomies.include("nick")
 end
 
 def using_sort(array)
